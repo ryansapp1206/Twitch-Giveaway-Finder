@@ -1,9 +1,9 @@
 # Twitch Giveaway Finder
 
-Python tool that finds live Twitch channels giving away computer hardware, logs them to a CSV file (Google Sheets optional later), and opens the channel in a tab so I can enter by hand. It is also my first real Python project, so learning matters as much as the finished tool.
+Python tool that finds live Twitch channels giving away computer hardware, logs them to a CSV file (Google Sheets optional later), and opens the channel in a tab so I can enter by hand. It is also a learning project, so learning matters as much as the finished tool.
 
-## About me
-- College student, beginner in Python. Windows, VS Code, `venv`.
+## Environment
+- Windows, VS Code, `venv`.
 - Explain new concepts in plain language the first time they appear.
 
 ## How to help me
